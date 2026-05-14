@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5ya2JvcTU0bjJpdmZidW92Y2FlbmdlMjNhanhuMXVueDlzYzQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Welcome GIF" width="700"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5ya2JvcTU0bjJpdmZidW92Y2FlbmdlMjNhanhuMXVueDlzYzQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Welcome GIF" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
