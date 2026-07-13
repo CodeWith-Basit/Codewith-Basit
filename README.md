@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">Flutter Developer in Progress | WordPress Developer | Embedded Systems Enthusiast</h3>
+<h3 align="center">Flutter Developer | WordPress Developer | Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Learner;Embedded+Software+Developer;C%2B%2B+Programmer;Building+Real+Projects+Daily" />
