@@ -71,10 +71,10 @@
   <a href="mailto:abdul560basit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/codewithbasit/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.tiktok.com/@your-tiktok" target="_blank">
+  <a href="https://www.tiktok.com/@codewithbasit" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
